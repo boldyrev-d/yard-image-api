@@ -3,6 +3,8 @@ node_js:
   - "node"
 install:
   - yarn
+script:
+  - yarn lint
 deploy:
   skip_cleanup: true
   on:

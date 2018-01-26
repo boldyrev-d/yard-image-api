@@ -9,9 +9,14 @@
     "express": "^4.16.2"
   },
   "scripts": {
-    "start": "node server"
+    "start": "node server",
+    "lint": "eslint ./server.js"
   },
   "devDependencies": {
+    "babel-eslint": "^8.2.1",
+    "eslint": "4.9.0",
+    "eslint-config-airbnb-base": "12.1.0",
+    "eslint-plugin-import": "2.7.0",
     "now": "^9.2.7"
   },
   "now": {
