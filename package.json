@@ -1,0 +1,14 @@
+{
+  "name": "yard-image-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Denis Boldyrev (boldyrev.ds@gmail.com)",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "scripts": {
+    "start": "node server"
+  }
+}
