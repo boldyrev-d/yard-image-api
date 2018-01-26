@@ -10,5 +10,11 @@
   },
   "scripts": {
     "start": "node server"
+  },
+  "devDependencies": {
+    "now": "^9.2.7"
+  },
+  "now": {
+    "alias": "yard-image-api"
   }
 }
