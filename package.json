@@ -1,5 +1,5 @@
 {
-  "name": "yard-image-api",
+  "name": "yard-images-api",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Denis Boldyrev (boldyrev.ds@gmail.com)",
@@ -20,6 +20,6 @@
     "now": "^9.2.7"
   },
   "now": {
-    "alias": "yard-image-api"
+    "alias": "yard-images-api"
   }
 }

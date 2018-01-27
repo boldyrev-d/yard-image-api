@@ -11,4 +11,4 @@ deploy:
     branch: master
   provider: script
   script:
-    - now --public --name yard-image-api --token $NOW_TOKEN && now alias --token $NOW_TOKEN
+    - now --public --name yard-images-api --token $NOW_TOKEN && now alias --token $NOW_TOKEN
