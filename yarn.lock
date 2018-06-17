@@ -950,9 +950,9 @@ normalize-package-data@^2.3.2:
     semver "2 || 3 || 4 || 5"
     validate-npm-package-license "^3.0.1"
 
-now@^11.2.2:
-  version "11.2.2"
-  resolved "https://registry.yarnpkg.com/now/-/now-11.2.2.tgz#c513fbc6d39cdde72a225d5607e61c211a79575a"
+now@^11.2.4:
+  version "11.2.4"
+  resolved "https://registry.yarnpkg.com/now/-/now-11.2.4.tgz#68e3a0677c323bb0d4e968ffda4845ead0236393"
 
 object-assign@^4.0.1:
   version "4.1.1"
