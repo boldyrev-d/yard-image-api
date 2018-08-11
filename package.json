@@ -17,7 +17,7 @@
     "eslint": "5.3.0",
     "eslint-config-airbnb-base": "13.0.0",
     "eslint-plugin-import": "2.13.0",
-    "now": "^11.3.8"
+    "now": "^11.3.9"
   },
   "now": {
     "alias": "yard-images-api"
