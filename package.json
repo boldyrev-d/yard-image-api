@@ -13,11 +13,11 @@
     "lint": "eslint ./server.js"
   },
   "devDependencies": {
-    "babel-eslint": "^9.0.0",
-    "eslint": "5.5.0",
+    "babel-eslint": "^10.0.1",
+    "eslint": "5.6.1",
     "eslint-config-airbnb-base": "13.1.0",
     "eslint-plugin-import": "2.14.0",
-    "now": "^11.4.1"
+    "now": "^11.4.6"
   },
   "now": {
     "alias": "yard-images-api"
